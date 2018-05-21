@@ -1,0 +1,257 @@
+/* Home */
+#pic li {
+    list-style-type: none;
+    margin: auto; 
+  
+    width: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color:#004A7E;
+	text-align: center;
+}
+
+#lside {
+	float: left;
+	margin-top: 50px;
+}
+
+#back {
+	background-image:url(../img/abstract.jpg);
+}
+
+#home {
+	background-image:url(../img/desert.png);
+	background-size: cover;
+}
+
+#img {
+	display: block;
+	margin:auto;
+}
+
+nav {
+	margin: auto;
+	text-align: center;
+	background:rgba(255,255,255, 0.7);
+}
+
+nav ul li {
+	display: inline-block;
+	color: #004A7E;
+	font-size: 20px;
+	font-family: bold;
+	padding-right: 30px;
+	margin: 15px;
+}
+
+a {
+	color: #004A7E;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	background-color:#004A7E;
+}
+
+p {
+	color: #004A7E;
+	text-align: center;
+	padding-top: 20px;
+	width: 800px;
+	font-size: 20px;
+	margin: auto;
+}
+/* Contact */
+
+
+address {
+	color: #004A7E;
+	font-size: 16px;
+}
+
+
+#contact {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+}
+
+table td {
+	
+	padding: 20px;
+}
+
+#info {
+	margin: auto;
+	width: 600px;
+	font-size: 18px;
+}
+
+/* gallery */
+
+
+#gallery {
+	margin: auto;
+	margin-top: 50px;
+}
+
+#gallery td{
+	text-align: center;
+}
+
+#gallery th {
+	column-span: all;
+	background-color:rgba(255,255,255, 0.7);
+	color: #004A7E;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+
+#fam {
+	margin: auto;
+}
+
+#fam th {
+	column-span: all;
+	background-color:rgba(255,255,255, 0.7);
+	color: #004A7E;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+
+#fam td {
+	text-align: center;
+}
+
+body {
+	background-color:  rgba(207, 235, 238, 0.7);
+}
+
+#gallery img {
+	border: 1px solid;
+	margin: auto;
+	display: block;
+}
+
+#fam img {
+	border: 1px solid;
+	margin: auto;
+	display: block;
+}
+
+
+/* event */
+
+
+#event {
+	margin-top: 5px;
+}
+
+#event th {
+	text-align: center;
+}
+
+#tour {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #004A7E;
+	margin-top: 10px;
+}
+
+h3 {
+	margin-top: 20px;
+}
+
+/* Calender */
+
+
+
+#calender{
+	
+	background: rgba(0, 74, 126, 0.1);
+}
+
+#M  {
+   
+    color: rgb(0, 74, 126);
+	text-align: center;
+    padding-top: 10px;
+	font-size: 30.5px;
+	padding-bottom: 10px;
+    width: 95%;
+	margin: auto;
+}
+
+#M tr {
+   
+    padding-top: 10px;
+	margin: auto;
+    
+}
+
+#B table {
+    margin: 0;
+   
+ }
+
+ #M td {
+    color: rgb(0, 74, 126);
+    font-size: 30px;
+}
+
+#B #W td {
+    
+    font-size: 20.5px;
+    text-align: center;
+	width: 50px;
+    color: rgb(0, 74, 126);
+    
+}
+
+#B .D td {
+    
+	text-align: center;
+    font-size: 14px;
+    color: rgb(0, 74, 126);
+    width: 50px;
+    margin-bottom: 5px;
+    
+}
+
+#B .D td #active {
+    
+	background: rgba(0, 74, 126, 0.3);
+	padding: 5px;
+    
+}
+
+
+
+/* about */
+ 
+	
+
+section img  {
+	padding-top: 15px;
+	display: block;
+	margin: auto;
+}
+
+footer {
+	
+	padding-top: 20px;
+	color: #004A7E;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+h2 {
+	color: #004A7E;
+}
+
